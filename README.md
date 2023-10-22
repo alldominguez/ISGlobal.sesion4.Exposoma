@@ -3,6 +3,8 @@
 
 Introducción al concepto del Exposoma y sus metodologías. Sesión 4 (09/11/2023) - Estrategias para el análisis de datos de Exposoma.
 
+![exposome_framework](figures/exposome.png)
+
 # Guía del repositorio
 En este repositorio encontraras el código y los materiales usados durante la **Sesión 4 - Estrategias para el análsis de datos de Exposoma**. Para ayudarte a navegar por el repositorio, abajo se detalla la organización del repositorio. 
 
