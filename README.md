@@ -1,5 +1,5 @@
 # ISGlobal.sesión4.Exposoma
-<img src="figures/isglobal.png" alt="ISGlobal logo" width="300"/>
+<img src="figures/isglobal.png" alt="ISGlobal logo" width="600"/>
 
 Introducción al concepto del Exposoma y sus metodologías. Sesión 4 (09/11/2023) - Estrategias para el análisis de datos de Exposoma.
 
