@@ -1,6 +1,6 @@
 # ISGlobal.sesión4.Exposoma
 
-![Alt text]([image link](https://raw.githubusercontent.com/alldominguez/ISGlobal.sesion4.Exposoma/main/figures/isglobal.png))
+![ISGlobal logo](https://raw.githubusercontent.com/alldominguez/ISGlobal.sesion4.Exposoma/main/figures/isglobal.png)
 
 Introducción al concepto del Exposoma y sus metodologías. Sesión 4 (09/11/2023) - Estrategias para el análisis de datos de Exposoma.
 
