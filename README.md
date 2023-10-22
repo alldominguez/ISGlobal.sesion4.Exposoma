@@ -7,7 +7,7 @@ En este repositorio encontraras el código y los materiales usados durante la **
 
 El repositorio contiene los siguientes documentos:
 
-**1.- curso_exposoma_modulo_4.ipynb:** contiene el notebook para la sesión práctica.
+**1.- curso_exposoma_modulo_4.ipynb:** contiene el notebook para la sesión práctica. 
 **2.- data:** contiene el **codebook** y los **datos (exposome.csv, covariates.csv, phenotype.csv)** que seran utilizados durante la sesión.  
 **3.- results:** contiene resultados de la sesión práctica. 
 
