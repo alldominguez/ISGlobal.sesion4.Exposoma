@@ -7,7 +7,8 @@ En este repositorio encontraras el código y los materiales usados durante la **
 
 El repositorio esta organizado en 2 carpetas:
 
-1.- data: Esta carpeta contiene el **codebook** y los **datos (exposome.csv, covariates.csv, phenotype.csv)** que seran utilizados durante la sesión.  
-2.- figures: Esta carpeta contiene algunos resultados de la sesión práctica. 
+**1.- data:** Esta carpeta contiene el **codebook** y los **datos (exposome.csv, covariates.csv, phenotype.csv)** que seran utilizados durante la sesión.  
+**2.- figures:** Esta carpeta contiene algunos resultados de la sesión práctica. 
+
 
 
