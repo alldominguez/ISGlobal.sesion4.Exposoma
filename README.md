@@ -6,7 +6,7 @@
 <img src="figures/exposoma.png" alt="ISGlobal logo" width="600"/>
 
 # Guía del repositorio
-En este repositorio encontraras el código y los materiales usados durante la **Sesión 4 - Estrategias para el análsis de datos de Exposoma**. Para ayudarte a navegar por el repositorio, abajo se detalla la organización del repositorio. 
+En este repositorio encontraras el código y los materiales usados durante la **Sesión 4 - Estrategias para el análisis de datos de Exposoma**. Para ayudarte a navegar por el repositorio, abajo se detalla la organización del repositorio. 
 
 El repositorio contiene los siguientes documentos:
 
