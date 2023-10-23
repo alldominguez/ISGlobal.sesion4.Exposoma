@@ -17,11 +17,20 @@ En este repositorio encontraras el código y los materiales usados durante la **
 
 El repositorio contiene los siguientes documentos:
 
-  **1.- curso_exposoma_modulo_4.ipynb:** contiene el notebook para la sesión práctica con el código necesario para realizar el análsis de datos en proyectos de exposoma. 
+**1.- curso_exposoma_modulo_4.ipynb:** contiene el notebook para la sesión práctica con el código necesario para realizar el análsis de datos en proyectos de exposoma. 
 
-  **2.- data:** contiene el **codebook** y los **datos (exposome.csv, covariates.csv, phenotype.csv)** que seran utilizados durante la sesión.  
+**2.- data:** Esta carpeta contiene el **codebook** y los sets de **datos**, que seran utilizados durante la sesión.  
 
-  **3.- results:** contiene resultados de la sesión práctica. 
+Las bases de datos estan compuestas por:
+* `phenotype` (outcomes)
+* `exposome` (exposiciones) 
+* `covariates` (covariables)  
+
+La descripción de cada variable (nombre, estructura, tipo de variable, transformacion, ...) esta detallada en el [codebook](https://github.com/alldominguez/ISGlobal.sesion4.Exposoma/blob/main/data/codebook.csv). 
+   
+**Nota:** Para unir las bases de datos es necesario utilizar la key variable **_ID_**. 
+
+**3.- results:** contiene resultados de la sesión práctica. 
 
  
 
