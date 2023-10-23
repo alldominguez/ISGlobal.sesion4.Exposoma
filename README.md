@@ -5,7 +5,7 @@
 
 <img src="figures/exposoma.png" alt="ISGlobal logo" width="600"/>
 
-**Alan Dominguez**, Investigador Predoctoral en Instituto de Salud Global de Barcelona - ISGlobal
+**Alan Dominguez**, Investigador Predoctoral en Instituto de Salud Global de Barcelona - ISGlobal //
 **Augusto Anguita-Ruiz**, Investigador Postdoctoral en Instituto de Salud Global de Barcelona - ISGlobal
 
 # Guía del repositorio
