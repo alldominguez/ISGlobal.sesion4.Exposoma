@@ -28,7 +28,7 @@ Las bases de datos estan compuestas por:
 
 La descripción de cada variable (nombre, estructura, tipo de variable, transformacion, ...) esta detallada en el [codebook](https://github.com/alldominguez/ISGlobal.sesion4.Exposoma/blob/main/data/codebook.csv). 
    
-**Nota:** Para unir las bases de datos es necesario utilizar la key variable **_ID_**. 
+**Nota:** Para unir las bases de datos es necesario utilizar la key variable **ID**. 
 
 **3.- results:** contiene resultados de la sesión práctica. 
 
