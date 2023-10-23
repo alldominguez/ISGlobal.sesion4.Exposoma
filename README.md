@@ -30,8 +30,6 @@ La descripción de cada variable (nombre, estructura, tipo de variable, transfor
    
 **Nota:** Para unir las bases de datos es necesario utilizar la key variable **ID**. 
 
-**3.- results:** contiene resultados de la sesión práctica. 
-
  
 
 
