@@ -5,6 +5,14 @@
 
 <img src="figures/exposoma.png" alt="ISGlobal logo" width="600"/>
 
+Por Alan Dominguez
+
+Investigador Predoctoral en Instituto de Salud Global de Barcelona - ISGlobal
+
+Y Augusto Anguita-Ruiz
+
+Investigador Postdoctoral en Instituto de Salud Global de Barcelona - ISGlobal
+
 # Guía del repositorio
 En este repositorio encontraras el código y los materiales usados durante la **Sesión 4 - Estrategias para el análisis de datos de Exposoma**. Para ayudarte a navegar por el repositorio, abajo se detalla la organización del repositorio. 
 
