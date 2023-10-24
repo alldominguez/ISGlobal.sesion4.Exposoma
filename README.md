@@ -1,9 +1,7 @@
 # ISGlobal.sesión4.Exposoma
-<img src="figures/isglobal.png" alt="ISGlobal logo" width="500"/>
-
 ## **Introducción al concepto del Exposoma y sus metodologías. Sesión 4 - Estrategias para el análisis de datos de Exposoma.**
-
-<img src="figures/exposoma.png" alt="ISGlobal logo" width="600"/>
+<img src="figures/isglobal.png" alt="ISGlobal logo" width="300"/>  
+<img src="figures/exposoma.png" alt="ISGlobal logo" width="500"/>
 
 **Alan Domínguez**, Investigador Predoctoral del Instituto de Salud Global de Barcelona - ISGlobal  
 **Augusto Anguita-Ruiz**, Investigador Postdoctoral del Instituto de Salud Global de Barcelona - ISGlobal
