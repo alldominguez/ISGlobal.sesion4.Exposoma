@@ -29,10 +29,11 @@ El repositorio contiene los siguientes documentos:
 
 **2.- data:** Esta carpeta contiene el **codebook** y los sets de **datos**, que seran utilizados durante la sesión.  
 
-Las bases de datos estan compuestas por:
-* `phenotype` (outcomes)
-* `exposome` (exposiciones) 
-* `covariates` (covariables)  
+* Los **datos de exposoma (n = 1301)** que utilizaremos estan contenidos en un archivo Rdata, el archivo contiene los siguientes ficheros:
+
+1. `phenotype` (outcomes)
+2. `exposome` (exposiciones)
+3. `covariates` (covariables) 
 
 La descripción de cada variable (nombre, estructura, tipo de variable, transformacion, ...) esta detallada en el [codebook](https://github.com/alldominguez/ISGlobal.sesion4.Exposoma/blob/main/data/codebook.csv). 
    
