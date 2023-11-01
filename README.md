@@ -29,7 +29,7 @@ El repositorio contiene los siguientes documentos:
 
 **2.- data:** Esta carpeta contiene el **codebook** y los sets de **datos**, que seran utilizados durante la sesión.  
 
-* Los **datos de exposoma (n = 1301)** que utilizaremos estan contenidos en un archivo Rdata, el archivo contiene los siguientes ficheros:
+* Los **datos de exposoma (n = 1301)** que utilizaremos estan contenidos en un archivo **Rdata**, el archivo contiene los siguientes ficheros:
 
 1. `phenotype` (outcomes)
 2. `exposome` (exposiciones)
