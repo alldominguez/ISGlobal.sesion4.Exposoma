@@ -33,7 +33,8 @@ El repositorio contiene los siguientes documentos:
 
 1. `phenotype` (outcomes)
 2. `exposome` (exposiciones)
-3. `covariates` (covariables) 
+3. `covariates` (covariables)
+4. `codebook` (diccionario de las variables)
 
 La descripción de cada variable (nombre, estructura, tipo de variable, transformacion, ...) esta detallada en el [codebook](https://github.com/alldominguez/ISGlobal.sesion4.Exposoma/blob/main/data/codebook.csv). 
    
