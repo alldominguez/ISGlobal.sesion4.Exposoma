@@ -23,7 +23,7 @@ Alguno de los contenidos que revisaremos en esta sección:
 * **Exposure Wide Association Analysis (ExWas)**
 * **Métodos para la selección de variables (Stepwise, Elastic net, DSA)**
 * **Clustering**
-* **Weighted Quantile Sum Regression (WQS)**
+* **Weighted Quantile Sum Regression (WQSR)**
 * **Bayesian Kernel Machine Regression (BKMR)**
 
 Para esta sesión práctica utilizaremos datos del estudio de exposoma HELIX. El estudio HELIX es un projecto colaborativo entre seis estudios longitudinales de cohortes de nacimiento basados en la población de seis paises Europeos (Francia, Grecia, Lituania, Noruega, Españana y Reino Unido).
