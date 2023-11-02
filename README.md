@@ -8,11 +8,23 @@
 
 El exposoma, descrito como **"la totalidad de las exposiciones ambientales humanas  desde la concepción en adelante"**, reconoce que los individuos estamos expuestos simultaneamente a multiples factores ambientales diferentes adoptando un efoque holístico para el descubrimento de factores etiológicos de la enfermedad. La ventaja prinicipal del enfoque del exposoma sobre otros más tradicionales "una exposición, una enfermedad" es que proporciona un framework para el estudio de múltiples riesgos ambientales (urbanos, químicos, estilo de vida, sociales, etc...) y sus efectos combinados. 
 
-El **objetivo** de esta sesión es ofrecer una **introducción a los distintos abordajes estadístico**s necesarios para responder a las principales cuestiones de investigación en exposoma, por lo que esta sesión se :
+El **objetivo** de esta sesión es ofrecer una **introducción a los distintos abordajes estadísticos** necesarios para responder a las principales cuestiones de **investigación en exposoma**, por lo que esta sesión:
 
 **1.- Análisis descriptivo:**  En una primera parte de la sesión se trabajará sobre el concepto de análisis descriptivo en exposómica, mediante el cual se extraen las primeras conclusiones sobre los datos. Entre otros objetivos, el análisis descriptivo persigue identificar posibles valores anómalos, factores de confusión o variables que requieran de transformaciones previas al análisis. A su vez, el análisis descriptivo permite comparar preliminarmente los grupos experimentales objeto de estudio, estudiar los patrones de correlación existentes entre factores de exposición, e identificar fenómenos de agrupación en los datos (tanto a nivel de individuos como de características). Todos ellos, pasos imprescindibles para elegir el abordaje estadístico posterior más adecuado.
 
+Alguno de los contenidos que revisaremos en esta sección:
+* **Visualización de la distribución y concentración de variables del exposoma.**
+* **Correlación entre exposiciones**
+* **Análsis de Componentes Principales (PCA) aplicado a variables del exposoma.**
+
 **2.- Análisis de asociación:** El análisis de asociación persigue la identificación de los posibles factores de exposición ambiental asociados con distintos parámetros de salud. En este bloque de la sesión se presentarán por lo tanto distintos abordajes analíticos holísticos centrados en el estudio de los efectos de múltiples factores de exposición y sus mezclas sobre la salud. Esto incluye principalmente modelos como el ExWAS (Exposome-Wide Association Analysis), u otros para el estudio de interacciones, o fenómenos de no linealidad (e.g., Bayesian Kernel Machine Regression). También se presentará una introducción a los métodos de clustering o mezclas de exposición (e.g., Weighted Quantile Sum Regression). Durante su estudio, se introducirán conceptos de gran importancia en el análisis del exposoma como son la selección de características o la corrección de testeo múltiple.
+
+Alguno de los contenidos que revisaremos en esta sección:
+* **Exposure Wide Association Analysis (ExWas)**
+* **Métodos para la selección de variables (Stepwise, Elastic net, DSA)**
+* **Clustering**
+* * **Weighted quantile sum regression**
+* **Bayesian Kernel Machine Regression**
 
 Para esta sesión práctica utilizaremos datos del estudio de exposoma HELIX. El estudio HELIX es un projecto colaborativo entre seis estudios longitudinales de cohortes de nacimiento basados en la población de seis paises Europeos (Francia, Grecia, Lituania, Noruega, Españana y Reino Unido).
 
