@@ -30,7 +30,7 @@ Algunos de los contenidos que revisaremos en esta sección incluyen:
 
 Para esta sesión práctica, utilizaremos datos del estudio de exposoma HELIX. El estudio HELIX es un proyecto colaborativo entre seis estudios longitudinales de cohortes de nacimiento, basados en la población de seis países europeos (Francia, Grecia, Lituania, Noruega, España y Reino Unido).
 
-![HELIX logo](figures/HELIX.png)
+<img src="figures/HELIX.png" alt="HELIX logo" width="500"/> 
 
 **Nota:** Los datos proporcionados en este curso introductorio fueron simulados a partir de los datos de la subcohorte HELIX. Detalles del proyecto HELIX y el origen de los datos recopilados pueden ser consultados en la siguiente publicación: [BMJ Open - HELIX](https://bmjopen.bmj.com/content/8/9/e021311) y en el [sitio web del proyecto](https://www.projecthelix.eu/es).
 
